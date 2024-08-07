@@ -5,11 +5,14 @@ Fork this repository
 
 Clone this repository to your local machine:
 
-git clone https://github.com/your-username/Blog-App-using-MERN-stack.git
+git clone https://github.com/your-username/todolist.git
 Install the required dependencies for both the backend and frontend:
+
 cd todolist
 cd backend && npm install
+
 cd ../client && yarn install
+
 Configure the database connection in the backend. You can use MongoDB Atlas or a local MongoDB server.
 
 Start the backend server:
