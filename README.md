@@ -20,9 +20,9 @@ Start the backend server:
 cd backend && npm start
 
 Start the frontend application:
+
 cd client && yarn dev
+
 Access the application in your web browser at http://localhost:5173.
 
 
-Acknowledgments
-We would like to thank all contributors and the open-source community for their support.
